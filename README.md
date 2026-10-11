@@ -1,4 +1,7 @@
-# 🌟 Setting Up FontAwesome in Your Vite React App
+# eazystore-ui
+A ecommerce stickers web app built with React.js and Java, Spring Boot.
+
+## Setting Up FontAwesome in Your Vite React App
 
 FontAwesome provides a comprehensive set of icons to enhance your React applications. This guide explains how to integrate and configure FontAwesome in a Vite-powered React app.
 
@@ -32,3 +35,4 @@ npm i --save @fortawesome/free-brands-svg-icons
 
 # React component package
 npm i --save @fortawesome/react-fontawesome@latest
+```
